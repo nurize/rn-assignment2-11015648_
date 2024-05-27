@@ -7,4 +7,5 @@ It exposes students to the world of problem-solving as it requires you to resolv
 It also tests our understanding of React and JSX, as well as our GitHub knowledge.
 
 ##Screenshots of my application
-![Screenshot 2024-05-27 074524](https://github.com/nurize/rn-assignment2-11015648_/assets/128712120/1561bc25-6d58-432a-9ad8-8d050a087e03)
+![Screenshot 2024-05-27 074831](https://github.com/nurize/rn-assignment2-11015648_/assets/128712120/4a15da1f-c3cf-4c62-a2b1-c9db399d7b99)
+
